@@ -73,3 +73,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### final frontend deployment ref :-
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/e8adacbe-a570-4ff1-aee6-272c36eefd7a" />
+
