@@ -23,7 +23,7 @@ sudo apt install -y nodejs
 ### 📥 Installation 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/AnupDudhe/TodosBe.git    
+   git clone https://github.com/AnupDudhe/TodosFe.git    
    cd TodosBe
    npm install
    npm install dotenv
