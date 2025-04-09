@@ -77,3 +77,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### final frontend deployment ref :-
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/e8adacbe-a570-4ff1-aee6-272c36eefd7a" />
 
+## Contributions
+
+- **Source Code Development**: The core functionality, application logic, and coding have been designed and implemented by Anup Dudhe.
+- **Infrastructure Setup**: Infrastructure components, such as server configurations, cloud services, and network setups, have been established and managed by Anup Dudhe.
+- **Deployment**: The deployment process, including CI/CD pipeline setup and environment configuration, was executed by Anup Dudhe to ensure seamless application deployment.
+
+## Developer Information
+
+- **Anup Dudhe**  
+  Software and Infrastructure Consultant  
+  CodeCloud Systems  
+  www.linkedin.com/in/anup-dudhe-3670331b1
