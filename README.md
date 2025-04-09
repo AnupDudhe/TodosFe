@@ -38,6 +38,7 @@ npm install
 npm run build
 pm2 list
 pm2 serve build/ 3000 --name "todos-frontend" --spa
+pm2 server build/3001 --name "todos-frontend" --spa #if you have 3000 port reserver with 3000 port
 ```
 
 
